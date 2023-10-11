@@ -1,6 +1,6 @@
 ## Practical Application 1
 
-This data analysis look into seeking out whether the customer will accept the coupon
+This data analysis looks into seeking out whether the customer will accept the coupon
 
 ### Initial Findings
 
@@ -15,5 +15,5 @@ people with typically lower incomes accepted coupons to higher degree than those
 Since the income of $50,000 - $62,500 was the median, I used that as the cut off between low income
 and high income.
 
-* I look at the data with sns.pairplot to see if there was any correlation that may exists, but did not
+* I looked at the data with ```sns.pairplot()``` to see if there was any correlation that may exists, but did not
 find any correlation (not included in notebook).
