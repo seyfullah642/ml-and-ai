@@ -17,3 +17,6 @@ and high income.
 
 * I looked at the data with ```sns.pairplot()``` to see if there was any correlation that may exists, but did not
 find any correlation (not included in notebook).
+
+* I also visual looked at other numerical data that was given, such as distribution of age,
+occupation based on gender, and income.
