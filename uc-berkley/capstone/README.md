@@ -1,4 +1,4 @@
-## Practical Application 2
+## Capstone Project
 
 What causes Cardiovascular Disease?
 
