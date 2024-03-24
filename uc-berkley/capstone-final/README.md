@@ -20,7 +20,7 @@ Build different models to see which one is best for data. By looking at the accu
 
 ### Initial Findings
 
-After testing multiple models, I can conclude that Ensemble techniques is the best approach for building a model on our data and making the best accurate predictions
+After testing multiple models, I can conclude that Ensemble techniques is the best approach for building a model on our data and making the best accurate predictions (refer to confusion matrix plots in jupyter notebook)
 
 ### Other Analysis
 
