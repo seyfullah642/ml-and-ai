@@ -36,7 +36,7 @@ One thing that can be done, is to split the data into male and female and build 
 
 ![alt text](https://github.com/seyfullah642/ml-and-ai/blob/main/uc-berkley/capstone-final/systolic_bp_distr.png)
 
-![alt text](https://github.com/seyfullah642/ml-and-ai/blob/main/uc-berkley/capstone-final/diastolic_bp_distr.png.png)
+![alt text](https://github.com/seyfullah642/ml-and-ai/blob/main/uc-berkley/capstone-final/diastolic_bp_distr.png)
 
 #### Link to notebook
 
