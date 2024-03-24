@@ -28,7 +28,7 @@ One thing that can be done, is to split the data into male and female and build 
 
 #### Link to plots
 
-Creating plots are a great way to have a visual representation of data as it tells us a story about the data.
+Creating plots are a great way to have a visual representation, and it tells us a story about the data.
 
 ![alt text](https://github.com/seyfullah642/ml-and-ai/blob/main/uc-berkley/capstone-final/height_distr.png)
 
