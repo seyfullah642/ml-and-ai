@@ -24,7 +24,7 @@ After testing multiple models, I can conclude that Ensemble techniques is the be
 
 ### Other Analysis
 
-One thing that can be done, is to split the data into male and female and build two models based on sex. We know that there are biological differences between men and women, measurements such as height, weight, bone density, are example of differences between the two genders. If we split the data, I hypothesize that the accuracy of the two models will be much higher and the rate of false positive and false negative will be lower (refer to confusion matrix plots in jupyter notebook).  
+One thing that can be done, is to split the data into male and female and build two models based on sex (as seen in the plots below). We know that there are biological differences between men and women, measurements such as height, weight, bone density, are example of differences between the two genders. If we split the data, I hypothesize that the accuracy of the two models will be much higher and the rate of false positive and false negative will be lower (refer to confusion matrix plots in jupyter notebook).  
 
 #### Link to plots
 
